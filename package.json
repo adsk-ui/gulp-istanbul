@@ -1,6 +1,6 @@
 {
   "name": "gulp-istanbul",
-  "version": "0.6.1",
+  "version": "v0.6.1_adsk",
   "description": "Istanbul unit test coverage plugin for gulp.",
   "keywords": [
     "gulpplugin",
